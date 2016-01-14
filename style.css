@@ -12,6 +12,10 @@ html, body {
 	margin: 0 auto;
 	padding: .5em 1em;
 }
+a:link {
+	text-decoration: none;
+	color: #0645AD;
+}
 .otherprojects {
 	width: 70%;
 	margin: 0 auto;
@@ -30,6 +34,7 @@ html, body {
 	margin: 10px auto;
 	border-top: .5px solid #aaa;
 	overflow: hidden;
+	text-decoration: none;
 }
 li {
 	display: inline-block;
