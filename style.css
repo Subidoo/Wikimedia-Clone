@@ -19,11 +19,11 @@ a:link {
 .otherprojects {
 	width: 70%;
 	margin: 0 auto;
+	padding: 0 auto;
 	display: flex;
-	flex-direction: row;
+	flex-direction: row;;
 	flex-wrap: wrap;
 	justify-content: flex-start;
-	align-content: space-between;
 	overflow: hidden;
 }
 .footer {
